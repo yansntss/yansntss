@@ -11,7 +11,7 @@
 Meu nome é Marcos Yan, sou técnico em Desenvolvimento de Sistemas e apaixonado por games e tecnologia  💻 🎮 .
 
 - :office_worker: Em busca da primeira experiência no mercado de desenvolvimento. 
-- :blue_heart: Aprofundando nas Techs: JS, HTML5, CSS3, Node.js, React entre outras.
+- :blue_heart: Aprofundando nas Techs: JS, HTML5, CSS3, Node.js e Reactjs.
 
 <details>
   <summary> <b>:octocat: Vizualizar status do github </b> <i>(Clique aqui para expandir)</i> </summary>
