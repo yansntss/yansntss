@@ -1,6 +1,5 @@
 # :man_technologist: Marcos Yan
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yansntss)](https://github.com/yansntss)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yansntss/)](https://www.linkedin.com/in/yansntss/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/npmyan)](https://twitter.com/NpmYan)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55075988606100&text=Olá!)](https://api.whatsapp.com/send?phone=55075988606100&text=Olá!)
