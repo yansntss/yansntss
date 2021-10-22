@@ -23,6 +23,12 @@ I currently study a lot of js, react, ts, node and my focus is to work with <str
 
 ---
 
+## ⭐ Info about my github account
+
+[![yansntss](https://github-readme-stats.vercel.app/api?username=yansntss&theme=dracula)](https://github.com/yansntss/)
+
+---
+
 <p align="left">
   💌 Feel free to send me a message: ⤵️
 </p>
@@ -41,11 +47,6 @@ I currently study a lot of js, react, ts, node and my focus is to work with <str
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/yansntss/"/></a>
 </p>
 
-## ⭐ Info about my github account
 
-
-
-
-[![yansntss](https://github-readme-stats.vercel.app/api?username=yansntss&theme=dracula)](https://github.com/yansntss/)
 
 
