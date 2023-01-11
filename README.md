@@ -4,7 +4,7 @@
   
   ## Olá ✌, Me chamo Yan
 <br>
-⭐Gosto de filmes, séries e jogos.<br>
+⭐Gosto de tudo que envolve tecnologia.<br>
 ⭐Sou apaixonado por programação e quero isso para sempre!!!<br>
 ⭐Atualmente trabalho como programador full-stack e as tecnologias mais utilizadas são:
 </p>
