@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer iuriCode">
-<h2> Hello ✌, I'm Yan</h2>
+<h2> Hello ✌, I'm Yan<h2>
 <br>
 ⭐ I love everything related to technology.<br>
 ⭐ Currently, I work as a full-stack developer, and the technologies I use the most are:
@@ -22,8 +22,8 @@
 <br>
 <br>
 ⭐ Information about my GitHub account
+
 <div align="center">
-  <a href="https://github.com/yansntss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yansntss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yansntss&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yansntss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yansntss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
