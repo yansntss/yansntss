@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer iuriCode">
-<h2> Hello ✌, I'm Yan<h2>
+<h2> Hello ✌, I'm Yan</h2>
 <br>
 ⭐ I love everything related to technology.<br>
 ⭐ Currently, I work as a full-stack developer, and the technologies I use the most are:
