@@ -2,7 +2,7 @@
 <h2> Hello ✌, I'm Yan</h2>
 <br>
 ⭐ I love everything related to technology.<br>
-⭐ Currently, I work as a full-stack developer, and the technologies I use the most are:
+⭐ I am a Development Coordinator and a cryptocurrency enthusiast.
 </p>
 <div style="display: inline_block"><br>
   <img align="center" alt="yan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
