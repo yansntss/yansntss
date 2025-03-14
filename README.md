@@ -2,7 +2,7 @@
 <h2> Hello ✌, I'm Yan</h2>
 <br>
 ⭐ I love everything related to technology.<br>
-⭐ I am a Development Coordinator and a cryptocurrency enthusiast.
+⭐ I am a Development Coordinator and a crypto enthusiast.
 </p>
 <div style="display: inline_block"><br>
   <img align="center" alt="yan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
