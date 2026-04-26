@@ -18,24 +18,6 @@ Apaixonado por resolver problemas complexos e criar soluções escaláveis.
 
 <br>
 
-## Áreas de atuação
-
-**Back-end e APIs**  
-Desenvolvimento de APIs RESTful, integrações entre sistemas e microsserviços com Node.js e PHP.
-
-**Front-end**  
-Interfaces web modernas e responsivas com React e Vue.js.
-
-**Automações**  
-Scripts e ferramentas em Python para processamento de dados e automação de processos repetitivos.
-
-**Real-time**  
-Aplicações com comunicação em tempo real usando Socket.io.
-
-**Infraestrutura**  
-Configuração e manutenção de ambientes Docker, NGINX e servidores Linux.
-
-<br>
 
 ## Formação
 
