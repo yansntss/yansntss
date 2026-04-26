@@ -2,57 +2,45 @@
 
 # Marcos Yan Lima
 
-### Tech Lead · Desenvolvedor Full-Stack Sênior · Arquitetura de Soluções
+### Desenvolvedor Full-Stack
 
 <br>
 
-Desenvolvedor Full-Stack com 4+ anos de experiência criando soluções escaláveis e resolvendo problemas complexos.  
-Atualmente mantendo 80+ sistemas e automações em produção, com expertise em desenvolvimento de sistemas críticos,  
-dashboards real-time e automações inteligentes. Busco oportunidades 100% remotas em Fintechs e Startups.
+Desenvolvedor Full-Stack com experiência em arquitetura de sistemas,  
+desenvolvimento web e automação de processos.  
+Apaixonado por resolver problemas complexos e criar soluções escaláveis.
 
 <br>
 
-## Stack Técnica
+## Stack
 
 <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,vue,php,python,postgres,mysql,mongodb,redis,docker,nginx,linux,git" /></a></p>
 
 <br>
 
-## Projetos em Destaque
+## Áreas de atuação
 
-**Sistema de Gamificação Operacional**  
-Plataforma de incentivo por metas com sistema de créditos e loja virtual  
-*Stack: React, PHP, PostgreSQL, Docker, NGINX*  
-Impacto: 2.661 acessos/mês em 9 operações
+**Back-end e APIs**  
+Desenvolvimento de APIs RESTful, integrações entre sistemas e microsserviços com Node.js e PHP.
 
-<br>
+**Front-end**  
+Interfaces web modernas e responsivas com React e Vue.js.
 
-**Dashboard Real-time com Socket.io**  
-Monitoramento de métricas operacionais com atualização a cada 10 segundos  
-*Stack: Node.js, Socket.io, React*
+**Automações**  
+Scripts e ferramentas em Python para processamento de dados e automação de processos repetitivos.
 
-<br>
+**Real-time**  
+Aplicações com comunicação em tempo real usando Socket.io.
 
-**Speech Analytics - Automação Inteligente**  
-Automação que processa e analisa bases de atendimento automaticamente  
-*Stack: Python, Pandas*  
-Resultado: Redução significativa de trabalho manual
+**Infraestrutura**  
+Configuração e manutenção de ambientes Docker, NGINX e servidores Linux.
 
 <br>
 
-**Plataforma de Centralização de Dashboards**  
-Sistema que eliminou dependência de licenças de BI externas  
-*Stack: React, Node.js, PostgreSQL*
+## Formação
 
-<br>
-
-## Sobre
-
-Meu diferencial: entrego rápido sob pressão, arquiteto soluções escaláveis  
-e não tenho medo de mexer em infraestrutura.
-
-Experiência em liderança técnica de equipes multidisciplinares (11 profissionais),  
-mas com foco em desenvolvimento ativo e resolução de problemas complexos.
+Bacharelado em Engenharia de Software (em andamento)  
+Técnico em Desenvolvimento de Sistemas - SENAI-BA
 
 <br>
 
@@ -61,6 +49,6 @@ mas com foco em desenvolvimento ativo e resolução de problemas complexos.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yansntss)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yansantos.dev@gmail.com)
 
-*Feira de Santana, BA · Disponível para trabalho 100% remoto*
+*Feira de Santana, BA*
 
 </div>
