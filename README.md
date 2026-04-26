@@ -18,9 +18,6 @@ Apaixonado por resolver problemas complexos e criar soluções escaláveis.
 
 <br>
 
-
-## Formação
-
 Bacharelado em Engenharia de Software (em andamento)  
 Técnico em Desenvolvimento de Sistemas - SENAI-BA
 
